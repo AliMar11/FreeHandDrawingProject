@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  lineInterpolationView.h
 //  FreeHandDrawingProject
 //
 //  Created by Alicia Marisal on 3/25/16.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "WidthViewController.h"
+#import "AppDelegate.h"
 
-@interface ViewController : UIViewController
+@interface lineInterpolationView : UIView
 
 @end
-

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  tabBarViewController.h
 //  FreeHandDrawingProject
 //
 //  Created by Alicia Marisal on 3/25/16.
@@ -7,9 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "WidthViewController.h"
 
-@interface ViewController : UIViewController
+@interface tabBarViewController : UITabBarController
 
 @end
-

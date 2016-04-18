@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  TabBarButtons.m
 //  FreeHandDrawingProject
 //
 //  Created by Alicia Marisal on 3/25/16.
 //  Copyright © 2016 Alicia Marisal. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "WidthViewController.h"
+#import "TabBarButtons.h"
 
-@interface ViewController : UIViewController
+@implementation TabBarButtons
 
 @end
-
